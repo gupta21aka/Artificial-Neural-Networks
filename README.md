@@ -7,3 +7,5 @@ Although neural networks (also known as "perceptrons") have been around since th
 There are multiple types of neural network, each of which come with their own specific use cases and levels of complexity. In this project, we study three networks: Variational Autoencoders, Deep Convolutional Generative Adversarial Networks and Capsule Generative Adversarial Networks.
 
 ## Project Paper and Results
+
+https://github.com/gupta21aka/Artificial-Neural-Networks/blob/master/FAI_project_report.pdf
